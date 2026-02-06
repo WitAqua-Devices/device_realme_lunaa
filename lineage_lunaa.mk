@@ -21,10 +21,10 @@ PRODUCT_MANUFACTURER := realme
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX3360
 
-PRODUCT_GMS_CLIENTID_BASE := android-oneplus
+PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="RMX3360-user 14 TP1A.220905.001 R.18a3a4d-41d9-71a9 release-keys" \
+    BuildDesc="RMX3360-user 13 TP1A.220905.001 R.18a3a4d-41d9-71a9 release-keys" \
     BuildFingerprint=realme/RMX3360/RE54ABL1:13/TP1A.220905.001/R.18a3a4d-41d9-71a9:user/release-keys \
     DeviceName=RE54ABL1 \
     DeviceProduct=RMX3360 \

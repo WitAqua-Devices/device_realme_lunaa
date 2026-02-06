@@ -3,15 +3,19 @@
     <screenBrightnessMap interpolation="linear">
         <point>
             <value>0.0014367816</value>
-            <nits>2.0</nits>
+            <nits>0.1023</nits>
+        </point>
+        <point>
+            <value>0.73527</value>
+            <nits>215.05115</nits>
         </point>
         <point>
             <value>1.0</value>
-            <nits>500.0</nits>
+            <nits>430.0</nits>
         </point>
     </screenBrightnessMap>
     <highBrightnessMode enabled="true">
-        <transitionPoint>0.73633</transitionPoint>
+        <transitionPoint>0.73527</transitionPoint>
         <minimumHdrPercentOfScreen>0.1</minimumHdrPercentOfScreen>
         <minimumLux>8700</minimumLux>
         <timing>
